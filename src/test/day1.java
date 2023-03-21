@@ -11,6 +11,7 @@ public class day1 {
 public void Demo()//Demo is Test case name
 {
 	System.out.println("Hello TestNG");
+	System.out.println("Dummy GIT");
 	Assert.assertTrue(false);//Here assert is used to run the listener failed function testcase
 }
 @AfterSuite
