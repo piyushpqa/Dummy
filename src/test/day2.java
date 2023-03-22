@@ -12,6 +12,9 @@ public class day2
 public void ploan()
 {
 	System.out.println("ploan");
+	System.out.println("aloan");
+	System.out.println("bloan");
+	System.out.println("cloan");
 	}
 @BeforeTest
 public void prerequisite()
